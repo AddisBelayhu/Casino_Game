@@ -5,12 +5,12 @@ body{
     background-size: cover;
     font-weight: bold;
     text-align: center;
-    background-color: brown;
-    color: white
+    background-color: green;
+    color: white;
 }
 
 h1{
-    color: goldenrod
+    color: goldenrod;
 }
 
 #message-el{
