@@ -54,7 +54,7 @@ function randerGame(){
         message = "You're out of the game";
         isAlive = false;
     }
-    messageEl.innerHTML = message;
+    messageEl.textContent = message;
 }
 
 
